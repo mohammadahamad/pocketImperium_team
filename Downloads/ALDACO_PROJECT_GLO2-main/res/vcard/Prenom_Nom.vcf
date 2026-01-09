@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Prenom Nom
+EMAIL:prenom.nom@utt.fr
+ORG:UTT
+TEL:0123456789
+END:VCARD

@@ -1,0 +1,9 @@
+EM U4 p32 Review 1 MultiChoice=similar to$took$attention$made$puts$deeper$ingredients$goals$contrary
+EM U4 p32 Review 2 OpenCloze=like$If$what$who$there$most$a$each$It
+EM U4 p33 Review 3 Word formation=variety$excitement$motivation$limits$dissatisfaction$competitive$professional$financial$achievements
+EM U4 p33 Review 4.1 more irritating than=more irritating than
+em u4 p33 review 4.2 interesting for/to=is very interesting for
+em u4 p33 review 4.3 so excited by/about=were so excited by
+EM U4 p33 Review 4.4 worried by=get very worried about
+EM U4 p33 Review 4.5 boring=find it boring
+EM U4 p33 Review 4.6 for the first time=I saw a glacier for
